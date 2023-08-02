@@ -1,0 +1,2 @@
+// #define SERIAL_USART_TX_PIN GP28
+#define MASTER_LEFT
