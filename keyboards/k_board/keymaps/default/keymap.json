@@ -41,7 +41,7 @@
             "KC_DOT",
             "KC_SLASH",
             "KC_ENTER",
-            "QK_MAGIC_TOGGLE_NKRO",
+            "KC_NO",
             "KC_LCTL",
             "KC_LGUI",
             "KC_LALT",

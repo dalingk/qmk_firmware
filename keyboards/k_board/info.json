@@ -7,7 +7,7 @@
     "usb": {
         "vid": "0xFEED",
         "pid": "0x1234",
-        "device_version": "0.0.1"
+        "device_version": "1.0.0"
     },
     "matrix_pins": {
         "direct": [
